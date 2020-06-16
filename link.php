@@ -36,6 +36,6 @@ else {
         echo "have error!";
 }
 
-echo "</center>"
+
 ?>
 
